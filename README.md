@@ -60,9 +60,7 @@ dotnet run --project CourierService
 
 
 3. **Input Example:**
-Console is developed with user interative comments for input the data
-
-
+This Application contains user interative comments which will guide to input the data. 
 
 ### 3. Running Automated Tests (xUnit)
 
