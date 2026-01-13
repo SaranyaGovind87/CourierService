@@ -60,13 +60,7 @@ dotnet run --project CourierService
 
 
 3. **Input Example:**
-```text
-100 5
-PKG1 50 30 OFR001
-...
-2 70 200
-
-```
+Console is developed with user interative comments for input the data
 
 
 
