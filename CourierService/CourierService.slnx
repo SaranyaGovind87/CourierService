@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.MD" />
+  </Folder>
+  <Project Path="../CourierService.Test/CourierService.Test/CourierService.Test.csproj" />
+  <Project Path="CourierService.csproj" />
+</Solution>
